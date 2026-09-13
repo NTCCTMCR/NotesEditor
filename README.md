@@ -4,6 +4,6 @@
 
 ## 歡迎來到《大陸居民臺灣正體字講義》
 
-本倉庫是《大陸居民臺灣正體字講義》的講義編輯校勘器倉庫，通常將此倉庫之根目錄置於[《大陸居民臺灣正體字講義》中央主倉庫](https://github.com/zhmgczh/Notes-on-Traditional-Chinese-Characters-in-Taiwan-for-Mainland-Chinese-Residents)的根目錄下。
+本倉庫是《大陸居民臺灣正體字講義》的講義編輯校勘器倉庫，通常將此倉庫之根目錄置於[《大陸居民臺灣正體字講義》中央主倉庫](https://github.com/ntcctmcr/Notes-on-Traditional-Chinese-Characters-in-Taiwan-for-Mainland-Chinese-Residents)的根目錄下。
 
 本倉庫所構建的網站旨在彙總值得錄入《大陸居民臺灣正體字講義》「一簡多繁辨析」系列的示例詞語，並提供簡單的校勘環境。
